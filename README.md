@@ -28,7 +28,7 @@ This project analyzes an E-Commerce sales dataset using **Python, SQL, and Power
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ```text
 02_Ecommerce_Sales_Analysis/
@@ -48,6 +48,7 @@ This project analyzes an E-Commerce sales dataset using **Python, SQL, and Power
 │   └── ecommerce_analysis.sql
 │
 ├── visuals/
+│   ├── dashboard.png
 │   ├── profit_by_region.png
 │   ├── sales_by_category.png
 │   ├── sales_by_segment.png
@@ -77,7 +78,35 @@ The analysis includes:
 
 ---
 
+# 📈 Python Visualizations
+
+## 📊 Sales by Category
+
+![Sales by Category](visuals/sales_by_category.png)
+
+---
+
+## 🍩 Sales by Segment
+
+![Sales by Segment](visuals/sales_by_segment.png)
+
+---
+
+## 🌍 Profit by Region
+
+![Profit by Region](visuals/profit_by_region.png)
+
+---
+
+## 🛒 Top Product Sub-Categories
+
+![Top Product Sub-Categories](visuals/top10_subcategories.png)
+
+---
+
 # 📈 Power BI Dashboard
+
+The interactive dashboard includes:
 
 ### KPI Cards
 
@@ -90,7 +119,7 @@ The analysis includes:
 
 - 📊 Sales by Category
 - 🍩 Sales by Segment
-- 📊 Profit by Region
+- 🌍 Profit by Region
 - 📍 Sales by State
 
 ### Interactive Filters
@@ -101,13 +130,9 @@ The analysis includes:
 
 ---
 
-# 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
-> Save your dashboard screenshot as **dashboard.png** inside the **visuals** folder.
-
-```markdown
 ![Dashboard](visuals/dashboard.png)
-```
 
 ---
 
@@ -153,4 +178,4 @@ Through this project, I gained practical experience in:
 
 Aspiring Data Analyst
 
-**GitHub:** https://github.com/varshinig297-alt
+**GitHub:** [varshinig297-alt](https://github.com/varshinig297-alt)
